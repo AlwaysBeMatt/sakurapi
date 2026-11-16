@@ -1,0 +1,5 @@
+package com.sakurapi.sakurapi
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
